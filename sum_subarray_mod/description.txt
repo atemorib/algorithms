@@ -1,0 +1,5 @@
+Problem:
+Given an input array with the length of N, and a number M.
+Let's find the largest sum of the subarray modulo M.
+(Subarray of an array are the continuous elements from position i, to position j where i<=j)
+We want the algorithm to be O( N * log N) maximum. 
